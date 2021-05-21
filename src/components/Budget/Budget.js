@@ -8,8 +8,9 @@ import Loading from './../shared/Loading/Loading';
 import Nav from './../shared/Nav';
 import './Budget.css';
 import {connect} from 'react-redux';
-import {requestUserData} from './../../redux/userReducer'
-import {requestBudgetData} from './../../redux/budgetReducer'
+import {requestUserData} from './../../redux/userReducer';
+import {requestBudgetData} from './../../redux/budgetReducer';
+import {requestUserData} from './../../redux/userReducer';
 
 
 
